@@ -94,7 +94,7 @@ def start_client_send_file(host, port, file_path_to_send="tst_file.txt"):
                     print(f"Sending {sent_bytes}/{file_size} bytes ({(sent_bytes / file_size * 100):.2f}%)", end='\r')
 
             print(f"\nSuccessfully sent '{filename}'. Total bytes: {sent_bytes}")
-
+#
         except ConnectionRefusedError:
             print("Connection refused. Please ensure the server is running.")
         except Exception as e:
