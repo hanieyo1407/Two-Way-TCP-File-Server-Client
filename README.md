@@ -8,3 +8,9 @@
     *GUI*
     *Error handling for fatal errors*
     *secure and reliable file transferring*
+   *HOW TO USE*
+      *AS SERVER*
+         -->In sever section, set the server's port number
+         -->Start the server by clicking the start server button
+            -->Now the server is ready for file transmissions
+         -->
