@@ -9,7 +9,7 @@
     *Error handling for fatal errors*
     *secure and reliable file transferring*
    *HOW TO USE*
-      *Before knowing how to use the app, the app's latest version uses advanced ways of using it* User will need to have an environment best for ssl*
+      *Before knowing how to use the app, the app's latest version uses advanced ways of using it* User will need to have an environment best for ssl security.*
          *Seting up the environment*
             *If you are a developer I assume you are aware of Git and that the git is installed in your system, if not go ahead and install git*
                *Run git bash and navigate to the directory where this app is as: cd "the directory"*
@@ -31,7 +31,7 @@
 *RUNNING THE APP AS CLIENT*
    *Though the client section looks a bit complex, it is not that complex as it seems.*
    *Imput the server's IP adress and Port number.*
-   *Check on "USE SSL/SLT" to connected to the server and get realtime response (eg. The list of things the server is keeping)*
+   *Check on "USE SSL/SLT" to connected to the server and get realtime response (eg. The list of things the server is keeping) and also to generate certificates for encryption.*
    *click on "upload file" if you want to upload a file*
       *Select the file in the explorer and click okay*
          *You will see a log in the log field about uploading progress and uploading seccess or failure message.*
